@@ -1,9 +1,10 @@
 #include "main.h"
-/*
-* main - E ntry point
-* description: 'print _putchar to stdout'
-* Return: always 0
-*/
+/**
+ * main - main block
+ * Description: prints _putchar to stdout
+ * 5 below 1024 (excluded), followed by a new line
+ * Return: 0
+ */
 int main(void)
 {
 	_putchar('_');
